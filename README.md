@@ -1,7 +1,7 @@
 # Linear Regression - Bike Sharing data-set Project
 
-This repository contains one of my first projects as a data science student taken from my student repo (copy of finalized files) - an exploration of the bike-sharing data set (https://www.kaggle.com/c/bike-sharing-demand) and the development of a predictive model.
+This repository contains one of my first projects as a data science student - an exploration of the bike-sharing data set (https://www.kaggle.com/c/bike-sharing-demand) and the development of a predictive model.
 
 <ins>The repository includes the following files:</ins>
-* task_bijeshare - an exploration of the bike-sharing data set
-* task_bikeshare_pipiline - a script for running a linear regression model on the data set
+* **task_bikeshare.ipynb** - an exploration of the bike-sharing data set
+* **task_bikeshare_pipiline.py** - a script for running a linear regression model on the data set
